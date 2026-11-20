@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.odd {
+  background-color: rgb(237 158 158);
+  font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+.third-elem {
+  font-size: 24px;
+}
+
+#divone {
+  font-size: 36px;
+  color: hsl(240deg 66% 64%);
+}
+
+#divtwo {
+  font-size: 24px;
+  background-color: rgb(135 237 152);
+  font-weight: bold;
+}

@@ -1,3 +1,7 @@
+* {
+  margin: 0.5rem 10px;
+}
+
 body {
   background: gray;
   font-family: sans-serif;
@@ -7,6 +11,7 @@ body {
   width: 400px;
   background: white;
   margin: 16px auto;
+  padding: 10px;
 }
 
 .title,
@@ -17,4 +22,14 @@ body {
 
 button {
   background: white;
+  padding: 10px;
+  display: block;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.button-container {
+  display: block;
+  padding: 10px;
+  text-align: center;
 }
